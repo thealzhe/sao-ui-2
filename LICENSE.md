@@ -1,6 +1,5 @@
-# One line explanation:
-- I care about sharing improvements.
-- The GNU GPLv3 also lets people do almost anything they want with your project, **except distributing closed source versions**.
+### One line explanation:
+I care about sharing improvements. The GNU GPLv3 also lets people do almost anything they want with your project, **except distributing closed source versions**.
 
 
                     GNU GENERAL PUBLIC LICENSE
