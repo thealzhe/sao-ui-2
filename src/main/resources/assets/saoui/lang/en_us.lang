@@ -1,0 +1,222 @@
+#PARSE_ESCAPES
+#(this command allows for proper evaluations as defined by String.format(), not a simplified version)
+
+# Social
+guiFriendRequestTitle=Friend Request
+guiFriendRequestText=%s wants to add you as a friend.
+guiPartyInviteTitle=Party Invite
+guiPartyInviteText=Would you like to join %s's party?
+guiPartyDissolvingTitle=Dissolve
+guiPartyDissolvingText=Do you want to disband your party?
+guiPartyLeaveTitle=Leave
+guiPartyLeaveText=Do you want to leave your party?
+guiMessageTitle=Message
+guiMessageFrom=from %s
+guiDeadAlert=You are Dead
+guiInvite=Invite
+guiDissolve=Dissolve
+guiMessageBox=Message Box
+guiGuild=Guild
+guiParty=Party
+guiFriends=Friends
+
+
+# Inventory
+guiWeapons=Weapons
+guiEquipped=Armor
+guiAccessory=Accessory
+guiProfile=Profile
+guiEquipment=Equipment
+guiTools=Tools
+guiBows=Bows
+guiPickaxes=Pickaxes
+guiAxes=Axes
+guiShovels=Shovels
+guiConsumable=Consumables
+guiItems=Items
+gui.empty=empty
+
+# Item Description
+itemDesc.type=Type: %s
+itemDesc.tool=Tool
+itemDesc.sword=Sword
+itemDesc.hoe=Hoe
+itemDesc.tileEntity=Tile Entity
+itemDesc.block=Block
+itemDesc.food=Food
+itemDesc.armor=Armor
+itemDesc.potion=Potion
+itemDesc.material=Material
+itemDesc.toolClasses=Tool Classes: %s Lv%s
+itemDesc.toolClass=Tool Class: %s Lv %s
+itemDesc.toolClassSpace=               %s Lv%s
+itemDesc.enchantable=Enchantable: %s
+itemDesc.enchantability=Enchantability: %s
+itemDesc.repairable=Repairable: %s
+itemDesc.hardness=Hardness: %s
+itemDesc.solid=Solid: %s
+itemDesc.toolRequired.false=Tool Required: False
+itemDesc.toolRequired.true=Tool Required: True
+itemDesc.mostEffective=Most effective: %s
+itemDesc.none=None
+itemDesc.foodValue=Food Value: %s
+itemDesc.saturationValue=Saturation Value: %s
+itemDesc.slot=Slot: %s
+itemDesc.repairItem=Repair Item: %s
+itemDesc.toughness=Toughness: %s
+
+#Skills
+skillSprinting=Sprinting
+skillCrafting=Crafting
+skillSneaking=Sneaking
+
+
+# Info
+guiPositionCheck=Position Check
+guiFieldMap=Field Map
+guiDungMap=Dungeon Map
+guiQuest=Quest
+guiSkills=Skills
+guiQuestList=Quest List
+guiDistance=Distance
+guiFloor=Floor
+guiCrafting=Crafting
+guiSprinting=Sprinting
+guiSneaking=Sneaking
+
+
+# Misc
+guiOptions=Options..
+guiOption=Option
+guiMenu=Menu
+guiLogout=Logout
+guiBack=Back
+
+
+# Option Categories
+optCatUI=UI Options
+optTheme=Themes
+optCatHealth=Health Bar Options
+optCatHotBar=Hotbar Options
+optCatEffects=Effects
+optCatMisc=Misc
+
+# Options - UI
+optionUIOnly=UI Only
+optionDefaultInv=Default Inventory
+optionDefaultDeath=Default Death
+optionDefaultDebuge=Default Debug
+optionForceHud=Force HUD (gm 1)
+optionLogout=Enable Logout
+optionGuiPause=GUIs pause the game
+
+# Options - Themes
+optionDefaultUI=Vanilla UI
+optionALOUI=ALO UI
+optionSAOUI=SAO UI
+
+# Options - Health
+optionSmoothHealth=Smooth Health
+optionHealthBars=Health Bars
+optionLightHud=Lighter HUD
+optionAltAbsorbPos=Alt Absorb Value Pos
+optionMobHealth=Mob Health Bars
+
+# Options - Hotbar
+optionDefaultHotbar=Default Hotbar
+optionHorHotbar=Horizontal Hotbar
+optionVerHotbar=Vertical Hotbar
+
+# Options - Effects
+optionColorCursor=Color Cursor
+optionCursorToggle=Toggle Cursor Movement
+optionSpinning=Spinning Crystals
+optionParticles=Particles
+optionLessVis=Less Visual Noise
+optionSounds=Sound Effects
+
+# Options - Misc
+optionCrossHair=Cross Hair
+optionAggro=Aggro System
+optionCliChatPacks=Client Chat Packets
+optionMountStatView=Show Mount Stats
+optionCustomFont=Use SAO Font
+optionDebugMode=Debug Mode
+optionCompatInv=Compact Inventory
+optionTextShadow= Text Shadow
+
+# Display
+displayLvShort=LV %1$d
+displayLvLong=Level
+displayXpShort=XP
+displayXpLong=Experience
+displayHpLong=Health
+displayStrLong=Strength
+displayDexLong=Agility
+displayResLong=Resistance
+displaySpdLong=Speed
+displayJmpLong=Jump Strength
+displayName=Name
+formatHealth=%1$.0f / %2$.0f
+formatHealthAbsorb=%1$.0f (+%3$.0f) / %2$.0f
+formatHealthAbsorbAlt=(+%3$.0f) %1$.0f / %2$.0f
+saoui.formatItems=%1$s x%2$d
+saoui.formatItem=%1$s
+
+# PT
+ptLeave=You left your party.
+ptDissolve=You dissolved your party.
+ptJoin=%s joined your party.
+ptDecline=%s declined the party invite.
+ptLeft=%s left your party.
+ptNew=You joined a new party.
+
+
+# Categories
+sao.element.profile=Profile
+sao.element.social=Social
+sao.element.message=Message
+sao.element.navigation=Navigation
+sao.element.settings=Settings
+sao.element.equipment=Equipment
+sao.element.items=Items
+sao.element.skills=Skills
+sao.element.tools=Tools
+sao.element.armor=Armor
+sao.element.consumables=Consumables
+sao.element.shields=Shields
+sao.element.accessory=Accessory
+sao.element.accessories=Accessories
+sao.element.weapons=Weapons
+sao.element.bows=Bows
+sao.element.pickaxe=Pickaxe
+sao.element.axe=Axe
+sao.element.shovel=Shovel
+sao.element.guild=Guild
+sao.element.party=Party
+sao.element.friends=Friends
+sao.element.invite=Invite
+sao.element.dissolve=Dissolve
+sao.element.message_box=Message Box
+sao.element.quests=Quests
+sao.element.field_map=Field Map
+sao.element.dungeon_map=Dungeon Map
+sao.element.options=Options
+sao.element.menu=Menu
+sao.element.logout=Logout
+sao.element.inspect=Inspect
+
+# Misc
+sao.misc.accept=Accept
+sao.misc.decline=Decline
+
+# Party
+sao.party.invite=Invite to party
+sao.party.invited=Invitation from %s
+sao.party.kick=Kick Player
+sao.party.cancel=Cancel Invitation
+sao.party.leave=Leave party
+sao.party.player_invited=[?] %s
+
+# Temporary
+saoui.invited=You have been invited to %s's party. Open the menu to accept!

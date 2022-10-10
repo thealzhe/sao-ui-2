@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "saoui2",
+    "name": "Sword Art Online UI²",
+    "description": "Sword Art Online User Interface, but up to date (according to this ²)",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "updateUrl": "",
+    "authorList": [
+      "Bluexin",
+      "Tencao",
+      "Blaez",
+      "theAlzhe"
+    ],
+    "url": "https://minecraft.curseforge.com/projects/sao-ui-2",
+    "credits": "TheJackiMonster for the original mod, Bluexin & their friends for the continuation.",
+    "logoFile": "assets/saoui/textures/logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
